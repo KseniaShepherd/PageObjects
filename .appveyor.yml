@@ -1,5 +1,5 @@
 image: Ubuntu
-  stack: jdk 11
+  stack:jdk 11
   branches:
     only:
       - main
